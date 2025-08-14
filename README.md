@@ -1,9 +1,7 @@
 # Get-to-Know-Trinity
-✨ Trinity, a passionate **software engineer recruiter** at **Garena Taiwan**
-
-📍 Taipei, Taiwan.
-
-📫 Contact: [lait@garena.com](mialto:lait@garena.com) or text me on <a href="www.linkedin.com/in/yinlilai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuchuanhung" height="30" width="40" /></a>
+<h1 align="center">✨ Hi, I'm Trinity! ✨</h1>
+<h3 align="center">🚀 Connecting top tech talent with the world’s leading companies</h3>
+<h3 align="center">📫 Contact: lait@garena.com or text me on <a href="www.linkedin.com/in/yinlilai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuchuanhung" height="30" width="40" /></a></h3>
 # 🌟 About Me
 
 ---
